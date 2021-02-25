@@ -1,6 +1,5 @@
 # Frontend Mentor - Intro component with sign up form
 
-_Acá va un párrafo que describa lo que es el proyecto_
 
 ## Welcome! 👋
 
