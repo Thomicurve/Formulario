@@ -1,6 +1,6 @@
 # Frontend Mentor - Intro component with sign up form
 
-![Design preview for the Intro component with sign up form coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Intro component with sign up form coding challenge](https://trello-attachments.s3.amazonaws.com/602b0c3d8393c86481ad6788/900x500/d151103b796326dce1a8bbb6b54703ac/cbyamvcsyhwlvnlelr5n.jpg)
 
 ## Welcome! 👋
 
